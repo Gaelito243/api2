@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mob Psycho 100",
+        "categoria": "Comedia y Acción",
+        "descripcion": "Un estudiante con poderes psíquicos lucha por vivir una vida normal mientras controla sus emociones.",
+        "fecha": "2024-11-19T06:00:00:000Z"
+    },
+    {
+        "id": 2,
+        "nombre": "Tokyo Revengers",
+        "categoria": "Drama y Viajes en el Tiempo",
+        "descripcion": "Un joven viaja al pasado para salvar a su novia y cambiar su destino.",
+        "fecha": "2024-11-14T06:00:00:000Z"
+    },
+    {
+        "id": 3,
+        "nombre": "Mushoku Tensei: Jobless Reincarnation",
+        "categoria": "Fantasía",
+        "descripcion": "Un hombre reencarnado en un mundo mágico busca redimirse y vivir su vida al máximo.",
+        "fecha": "2024-11-18T06:00:00:000Z"
+    },
+    {
+        "id": 4,
+        "nombre": "Dandadan",
+        "categoria": "Acción y Sobrenatural",
+        "descripcion": "Dos adolescentes investigan fenómenos paranormales mientras enfrentan amenazas extraterrestres y sobrenaturales.",
+        "fecha": "2024-11-20T06:00:00:000Z"
+    },
+    {
+        "id": 5,
+        "nombre": "Shigatsu wa Kimi no Uso",
+        "categoria": "Drama y Música",
+        "descripcion": "Un pianista prodigio encuentra inspiración para tocar nuevamente gracias a una violinista vibrante.",
+        "fecha": "2024-11-22T06:00:00:000Z"
+    }
+]
+
